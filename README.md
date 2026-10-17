@@ -1,6 +1,6 @@
 # Guy Mberebe Guidona
 
-Software engineer · Montreal, Canada · [mguidona@gmail.com](mailto:mguidona@gmail.com) · [LinkedIn](https://linkedin.com/in/guy-guidona)
+Software engineer · Montreal, Canada · [Website](https://guidona.github.io/) · [mguidona@gmail.com](mailto:mguidona@gmail.com) · [LinkedIn](https://linkedin.com/in/guy-guidona)
 
 ## About me
 
