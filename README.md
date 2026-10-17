@@ -1,61 +1,86 @@
-### Hi there 👋
+# Guy Mberebe Guidona
 
-<!--
-**Guidona/Guidona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer · Montreal, Canada · [mguidona@gmail.com](mailto:mguidona@gmail.com) · [LinkedIn](https://linkedin.com/in/guy-guidona)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Versatile and results-driven software engineer pivoting toward technology leadership and business
+strategy. Proven success in architecting, leading, and deploying scalable, secure, and resilient
+microservices solutions in high-stakes environments (telecommunications, fintech). Adept at
+translating complex business needs into technical roadmaps, driving cross-functional alignment, and
+championing Agile/DevOps transformation to ensure end-to-end value delivery.
 
-# GUY MBEREBE GUIDONA
+## Experience
 
-## About Me
-I am a talented, ambitious, and hardworking software engineer with a passion for entrepreneurship and volunteering. With a broad range of skills and experience, I excel at handling multiple tasks and working well under pressure. My key strength lies in communication, allowing me to build strong relationships and deliver the best results.
+### Software Developer, Ericsson Canada (Saint-Laurent, Montreal)
+*October 2023 – present*
 
-## Work Experience
-### Senior Software Development Consultant, ISCI INC. (Montreal, Canada)
-- Dates: 05/10/2022 - Current
-- Responsibilities: Improve system quality, enhance applications, maintain and improve code bases, liaise with colleagues, investigate and implement new technologies.
+- Designed and implemented mission-critical backend microservices for a distributed
+  telecommunications product, supporting high-availability requirements within a Kubernetes
+  ecosystem.
+- Directly responsible for enhancing the product's scalability and resiliency, ensuring compliance
+  with high industry security standards through robust design and testing practices.
+- Partnered closely with Product Owners to define business requirements (user stories), influencing
+  the technical direction to meet evolving market needs.
+- Managed the full feature lifecycle, from design and automated testing to deployment, resulting in
+  seamless, high-quality feature releases.
 
-### Software Developer, Sprint - Pay Cameroon SA (Yaoundé, Cameroon)
-- Dates: 17/11/2019 - 04/10/2022
-- Responsibilities: Developed a web and desktop platform for examination management operations, implemented core business logic, deployed microservices, followed SCRUM methodology, and handled data engineering.
+### Senior Software Development Consultant, ISCI inc. (Montreal, Canada)
+*October 2022 – September 2023*
 
-### Software Developer, I2S (Yaoundé, Cameroon)
-- Dates: 04/03/2019 - 02/09/2019
-- Responsibilities: Designed and implemented an Electronic Archives Management System, developed microservices, managed clients and web using Spring and Spring Boot frameworks.
+- Led software development initiatives across all technological aspects, using Agile methodologies
+  and DevOps practices.
+- Developed, tested, debugged, and deployed various platforms, including their management consoles.
+- Collaborated with product managers to propose and assess new technologies for platform evolution.
+- Containerized applications and managed their deployment.
+- Oversaw source code management and tracked tasks throughout Scrum sprints.
+- Managed service contracts with external providers to ensure seamless integration and service
+  continuity.
 
-### Software Developer, Technology and Innovation Support Center of the University of Maroua (Maroua, Cameroon)
-- Dates: 01/07/2017 - 28/02/2019
-- Responsibilities: Developed a student marks management platform for the National Advanced School of Engineering of Maroua, implemented a Transparent Authentication System, and provided technical assistance.
+### Software Developer, Sprint-Pay Cameroon SA (Yaoundé, Cameroon)
+*November 2019 – October 2022*
+
+- Led the development of a core payment API to resolve system interoperability, integrating with
+  multiple external payment providers via REST APIs to expand service reach.
+- Enhanced overall system quality and operational stability by identifying key issues and developing
+  standard operating procedures, reducing post-deployment errors.
+- Architected and deployed a comprehensive web and desktop platform for the national examination
+  body (OBC) using Docker and Kubernetes to centralize and modernize operations.
 
 ## Education
-- Master of Engineering Degree in Software Engineering, National Advanced School of Engineering of Maroua
-- Bachelor of Engineering Degree in Computer Science and Telecommunications, National Advanced School of Engineering of Maroua
-- GCE Advanced Level, Government Bilingual High School Garoua
+
+- **Master of Engineering in Software Engineering** (first in class), National Advanced School of
+  Engineering of Maroua, Cameroon, *November 2017 – September 2019*
+- **Bachelor of Engineering in Computer Science and Telecommunications** (first in class), National
+  Advanced School of Engineering of Maroua, Cameroon
+- **Huawei Seeds for the Future Program**, Huawei Technologies Co., Ltd., Shenzhen, China,
+  *September 2018*
+- **Chinese Language & Culture Experience Program**, Beijing Language and Culture University,
+  Beijing, China, *September 2018*
 
 ## Skills
-- Programming Languages: Java, Python, JavaScript, C++
-- Frameworks: Spring, Spring Boot, Django, Express.js
-- Database: MySQL, PostgreSQL, MongoDB
-- Tools and Technologies: Git, JUnit, Maven, Docker, Kubernetes
-- Operating Systems: Ubuntu, Debian Linux, Windows
-- Other Skills: RESTful APIs, Web Development (HTML5, CSS3, JavaScript)
 
-## Additional Information
-- Nationality: Cameroonian
-- Gender: Male
-- Email Address: mguidona@gmail.com
-- LinkedIn: linkedin.com/in/guy-guidona
-- Twitter: twitter.com/GMGuidona
+- **Leadership & methodology:** Agile/Scrum, DevOps transformation, cross-functional collaboration,
+  vendor management, technical roadmapping, project lifecycle management
+- **Architecture & backend:** microservices architecture, REST API design, distributed systems,
+  scalability, resiliency, Spring Boot, Django, Java, Python
+- **Cloud & infrastructure:** Docker, Kubernetes, CI/CD (Jenkins), cloud deployment
+- **Data & databases:** MySQL, PostgreSQL
+- **Operating systems:** Ubuntu, Debian, Linux, Windows
+- **Languages:** English (C2), French (C2), Fulah (B2)
 
-Feel free to reach out to me if you have any further questions or opportunities for collaboration!
+## Certifications & awards
 
+- Huawei Seeds for the Future 2018, Huawei Technologies Co., Ltd.
+- Best Result Award, 2014 GCE Advanced Level, Les Brasseries du Cameroun
+- Best Result Award, 2012 GCE Ordinary Level, Les Brasseries du Cameroun
+
+## Leadership & memberships
+
+- Co-founder & Vice President, Action for Education and Peace, Maroua, Cameroon
+- UNOPS Global Challenge GIC Alumni, UNOPS Global Innovation Center, Lund, Sweden
+- Huawei Seeds for the Future Alumni, Huawei Technologies Co., Ltd.
+
+## Interests
+
+Football, jogging, rowing.
