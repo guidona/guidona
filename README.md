@@ -1,4 +1,4 @@
-# Guy Mberebe Guidona
+# Guy Guidona
 
 Software engineer · Montreal, Canada · [Website](https://guidona.github.io/) · [LinkedIn](https://linkedin.com/in/guy-guidona) · [mguidona@gmail.com](mailto:mguidona@gmail.com)
 
@@ -19,5 +19,3 @@ Kubernetes, CI/CD · PostgreSQL, MySQL · Linux
 **Projects:** [Ngai](https://github.com/guidona/ngai-game), a traditional Tupuri board game with an
 AI opponent ([play it](https://guidona.github.io/ngai-game/)) · [survey](https://github.com/guidona/survey),
 a form builder API in Spring Boot
-
-Full CV on [my website](https://guidona.github.io/).
